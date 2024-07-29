@@ -80,7 +80,7 @@ I'm passionate about turning data into actionable insights. My expertise lies in
 
 ## Get in Touch
 - **LinkedIn**: [Anshul Yadav](https://www.linkedin.com/in/anshul-yadav)
-- **Email**: [anshul@example.com](mailto:anshul@example.com)
+- **Email**: [workaholicanshul@gmail.com](mailto:workaholicanshul@gmail.com)
 
 ## Fun Facts
 - I love exploring new data analytics tools and techniques.
