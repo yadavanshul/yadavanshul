@@ -3,7 +3,7 @@
 🎓 **Master's Student in Data Analytics at San Jose State University**
 
 💻 **Quality Data Analyst at PIM Brands**  
-📊 **Data Analyst Intern at inn4smart solution and Drabito Technologies**
+📊 **Data Scientist Intern at inn4smart solution and Drabito Technologies**
 
 ## About Me
 I'm passionate about turning data into actionable insights. My expertise lies in data preprocessing, predictive modeling, and data visualization. I have a strong background in computer science and extensive experience with various tools and technologies.
